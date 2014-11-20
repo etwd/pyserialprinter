@@ -13,3 +13,4 @@ suggestions and help are welcome.
 * GBK charset Support;
 * Image output support;
 * etc... 
+* This is a funny shit @siyanmao
